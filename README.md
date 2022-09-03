@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 <hr>
 <h2 align="center"> <i> Github Stats </i> </h2>
 <br>
-<p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=nainshree-raj&theme=light&border=61dafb&hide_border=true" alt="nainshree-raj"/>
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=nainshree-raj&theme=light&border=61dafb&hide_border=true" alt="nainshree-raj"/>
     </a>
     
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nainshree-raj&theme=light&show_icons=true)
