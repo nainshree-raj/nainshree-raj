@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on similar development ideas.
 - 🤔 I’m currently pursuing my Bachelor's in Electronics And Communications.
 - 💬 Ask me about Problem-Solving.
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="mailto: rajnainshree28@gmail.com">Email</a>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:  
+- ⚡ Fun fact: I think mostly while eating!!!
 
    <br>
 <p align="center">
@@ -30,9 +30,16 @@ Here are some ideas to get you started:
   <code><img title="Git" height="65" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="65" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="65" src="images/visualstudio.png"></code>
-  <code><img title="JSON" height="65" src="images/json.svg"></code>
   <code><img title="GitHub" height="65" src="images/github.svg"></code>
   <code><img title="MySQL" height="65" src="images/mysql.svg"></code>
-  <code><img title="npm" height="65" src="images/npm.svg"></code>
 </p>
 <hr>
+<h2 align="center"> <i> Github Stats </i> </h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=nainshree-raj&theme=light&border=61dafb&hide_border=true" alt="nainshree-raj"/>
+    </a>
+    
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nainshree-raj&theme=light&show_icons=true)
