@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Problem-Solving Skills.
-- 🌱 I’m currently learning Machine Learning and Web Development.
+- 🌱 I’m currently interested in VLSI design.
 - 👯 I’m looking to collaborate on similar development ideas.
 - 🤔 I’m currently pursuing my Bachelor's in Electronics And Communications.
 - 💬 Ask me about Problem-Solving.
