@@ -8,9 +8,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Problem-Solving Skills.
-- 🌱 I’m currently interested in VLSI design.
+- 🌱 I’m interested in the VLSI domain.
 - 👯 I’m looking to collaborate on similar development ideas.
 - 🤔 I’m currently pursuing my Bachelor's in Electronics And Communications.
+- 👩‍💻 I've interned in the VIRTUAL PROTOTYPE domain.
 - 💬 Ask me about Problem-Solving.
 - 📫 How to reach me: <a href="mailto: rajnainshree28@gmail.com">Email</a>
 - 😄 Pronouns: She/Her
