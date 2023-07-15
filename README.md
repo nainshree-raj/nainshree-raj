@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Problem-Solving Skills.
-- 🌱 I’m interested in DEVLOPMENT.
+- 🌱 I’m interested in SOFTWARE DEVELOPMENT.
 - 👯 I’m looking to collaborate on similar development ideas.
 - 🤔 I’m currently pursuing my Bachelor's in Electronics And Communications.
 - 👩‍💻 I've interned in the VIRTUAL PROTOTYPE domain.
