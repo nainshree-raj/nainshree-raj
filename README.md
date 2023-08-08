@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m interested in SOFTWARE DEVELOPMENT.
 - 👯 I’m looking to collaborate on similar development ideas.
 - 🤔 I’m currently pursuing my Bachelor's in Electronics And Communications.
-- 👩‍💻 I've interned in the VIRTUAL PROTOTYPE domain.
+- 👩‍💻 I've interned in the VIRTUAL PROTOTYPE domain & currently working as a software developer trainee.
 - 💬 Ask me about Problem-Solving.
 - 📫 How to reach me: <a href="mailto: rajnainshree28@gmail.com">Email</a>
 - 😄 Pronouns: She/Her
