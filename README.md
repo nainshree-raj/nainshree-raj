@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👩‍💻 I am currently working as a software developer trainee.
 - 💬 Ask me about Problem-Solving.
 - 📫 How to reach me: <a href="mailto: rajnainshree28@gmail.com">Email</a>
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I think mostly while eating!!!
 
    <br>
